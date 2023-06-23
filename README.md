@@ -1,7 +1,7 @@
 ### Olá! Eu sou Diego Nascimento👋
 
 - Estou Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
-- Estudando HTML e CSS, JavaScript, Python, MySQL
+- HTML e CSS, JavaScript, Python.
 
 <div align="center">
   <a href="https://github.com/dvalenascimento">
