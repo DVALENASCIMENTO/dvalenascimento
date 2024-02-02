@@ -1,6 +1,6 @@
 ### Olá! Eu sou Diego Nascimento👋
 
-- Estou Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
 - HTML e CSS, JavaScript, Python.
 
 <div align="center">
